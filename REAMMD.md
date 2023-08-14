@@ -1,0 +1,1 @@
+This repo is about the scripts for seeting up the droplet
